@@ -6,31 +6,59 @@ hr
               
 	     height: 0px;
 			  
-		 width:5%;
+		 width:25%;
 
-		 border-color:black;	
+		 border-color:red;	
 				  
 		 border-width:5px;	
 
 	}
 			
-body
 
+.a
 {
-				 
-	background-color: #b2ebf2; 
+	
+	font-family:chiller;
+	
+}
+.bhr
+	{
+		 border-style:none;
 				  
-				
-}
-h1
+		 border-top-style: dotted;
+              
+	     height: 0px;
+			  
+		 width:100%;
+
+		 border-color:red;	
+				  
+		 border-width:5px;	
+
+	}
+
+.body1
 {
-
-color: #eb6383;
-
-
+	
+	background-color:#8ccbbe;
 }
+
+.body2
+{
+	
+  background-color:#ffe8df;
+  
+}
+ 
+ 
 h2
 {
-	color: #eb6383;
+  font-family:Comic Sans MS;
 
-}	
+}
+
+.font1
+{
+  font-family:chiller;
+}
+
